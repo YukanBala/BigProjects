@@ -1,0 +1,10 @@
+package com.test;
+
+public class welcome {
+
+	public static void main(String[] args) {
+
+		System.out.println("Welcom to GITHub");
+	}
+
+}
